@@ -1,0 +1,3 @@
+springCloud: 
+  demo: hello
+  demo1 : proWorld
