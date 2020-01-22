@@ -1,3 +1,9 @@
-springCloud: 
-  demo: hello
-  demo1 : proWorld
+server:
+  port: 8002
+spring:
+  application:
+    name: spring-cloud-config-client
+
+management:
+  security:
+    enabled: false
